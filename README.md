@@ -9,5 +9,5 @@ I built this to work with Vue applications but any front end framework work do j
 
 The plugin updates the order details into the order and via webhooks the normal Woo processes kick in when Stripe successfully captures the payment.
 
-<h3>STRIPPED BACK STRIPE<h3><br>
+<h4>STRIPPED BACK STRIPE</h4><br>
 This plugin is really intended as a start point for front end developers to leverage REST api payments through Woo. It is not a complete commercial solution, and as such you will need to add your own custom sanitisation and validation to the plugin.
